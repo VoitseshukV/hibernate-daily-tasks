@@ -1,7 +1,5 @@
 package core.basesyntax;
 
-import java.util.Locale;
-
 public class Mumbling {
   public static String mumble(String string) {
     StringBuilder result = new StringBuilder();
